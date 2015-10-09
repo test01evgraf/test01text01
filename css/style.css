@@ -1,0 +1,38 @@
+.blogbox
+{
+	background-color: rgba(230,230,230,0.7);
+	
+	padding: 0;
+	
+	margin: 10px;
+	border-radius: 15px;
+
+}
+
+.blogbox:hover
+{
+
+-webkit-box-shadow: 33px 33px 33px 33px rgba(120,111,120,1);
+
+-moz-box-shadow: 33px 33px 33px 33px rgba(120,111,120,1);
+
+box-shadow: 33px 33px 33px 33px rgba(230,80,0,230);
+}
+
+
+
+.blogbox .meta-beitrag
+{
+	
+
+	font-size: 0.85em;
+	line-height: 35px;
+	background-color: rgb(230,230,230);
+	font-weight: bold;
+}
+.blogbox .category
+{
+	
+	line-height: 35px;
+	
+}
