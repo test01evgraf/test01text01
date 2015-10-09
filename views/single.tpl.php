@@ -4,7 +4,7 @@
 
 <script language="javascript">
 
-//dies ist die veränderung
+//dies ist die veränderung Eugen github
 var AngezeigteBreite = 500;
 var GespeicherteBreite = 0;
 
