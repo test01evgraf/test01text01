@@ -4,6 +4,7 @@
 
 <script language="javascript">
 
+//dies ist die veränderung
 var AngezeigteBreite = 500;
 var GespeicherteBreite = 0;
 
